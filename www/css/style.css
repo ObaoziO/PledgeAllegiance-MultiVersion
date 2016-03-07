@@ -30,13 +30,16 @@ ion-content, h3{
   border-radius: 5px;
 }
 #content{
-  margin-top: 10% !important;
+  margin-top: 25% !important;
   /*background: yellow;*/
 }
 h1, .title{
   font-family: 'Rochester', cursive;
   font-size: 25pt;
   font-weight: bold;
+}
+h3{
+  color: #0052A5;
 }
 p{
   font-family: 'Lateef';
